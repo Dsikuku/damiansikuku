@@ -1,0 +1,9 @@
+/*
+	Damian Sikuku 2019
+*/
+
+/* Loader */
+
+	body:before, body:after {
+		display: none;
+	}
